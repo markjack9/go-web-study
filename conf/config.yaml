@@ -1,0 +1,9 @@
+port: 8081
+version: "v1.0.1"
+
+mysql:
+  port: 3306
+  ip: "192.168.1.20"
+  user: "admin"
+  passwd: "sinfotek"
+  dbname: "sinfotek"
